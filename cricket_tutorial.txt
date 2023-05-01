@@ -1,0 +1,11 @@
+Cricket Game, Week2_pythonproject
+
+A cricket game is for 2 player.
+Each player will participate in toss
+Winner of toss can decide who will bat
+Batsman will play 12 balls in which he will not be out and random score will be generated for each player in range (0, 6)
+After 1st inning player 2 has to proceed for 2nd inning
+Same way he will score runs and chase player 1
+After comparision of scores Winner will be concluded 
+
+
